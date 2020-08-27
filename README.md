@@ -1,5 +1,3 @@
-# juben96
+# Titanic Classification with different ML algorithms
 
-This project is done to predict whether the passenger survived or not.
-
-Different classification algorithms are used and their accuracy is calculated.
+Feature engineering & Different classification algorithms are used to predict whether the passsenger survived or not and their accuracy is calculated.
